@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2013-02-03T14:19:32Z</time>
+<bounds minlat="44.712500000" minlon="5.208330000" maxlat="45.250500000" maxlon="5.633800000"/>
+<wpt lat="45.150000000" lon="5.633800000">
+  <ele>0.000000</ele>
+  <name>Source du Moucherotte</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1774/point-d-eau/vercors/source-du-moucherotte/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1774/point-d-eau/vercors/source-du-moucherotte/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.207510000" lon="5.617510000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Sornin</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1181/point-d-eau/vercors/fontaine-de-sornin/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1181/point-d-eau/vercors/fontaine-de-sornin/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.755536000" lon="5.614655000">
+  <ele>0.000000</ele>
+  <name>Source de la Freidière</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3262/point-d-eau/vercors/source-de-la-freidiere/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3262/point-d-eau/vercors/source-de-la-freidiere/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.079010000" lon="5.614470000">
+  <ele>0.000000</ele>
+  <name>Source du col de l&apos;arc</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2683/point-d-eau/vercors/source-du-col-de-l-arc/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2683/point-d-eau/vercors/source-du-col-de-l-arc/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.078800000" lon="5.614100000">
+  <ele>0.000000</ele>
+  <name>Fontaine des Crocs</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2602/point-d-eau/vercors/fontaine-des-crocs/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2602/point-d-eau/vercors/fontaine-des-crocs/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.081430000" lon="5.607980000">
+  <ele>0.000000</ele>
+  <name>Source du Berger</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1770/point-d-eau/vercors/source-du-berger/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1770/point-d-eau/vercors/source-du-berger/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.086780000" lon="5.605440000">
+  <ele>0.000000</ele>
+  <name>Source de Fond Froide</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1966/point-d-eau/vercors/source-de-fond-froide/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1966/point-d-eau/vercors/source-de-fond-froide/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.241700000" lon="5.597500000">
+  <ele>0.000000</ele>
+  <name>Fontaine de la Sure</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2421/point-d-eau/vercors/fontaine-de-la-sure/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2421/point-d-eau/vercors/fontaine-de-la-sure/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.170000000" lon="5.588300000">
+  <ele>0.000000</ele>
+  <name>Source de la Graille</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2422/point-d-eau/vercors/source-de-la-graille/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2422/point-d-eau/vercors/source-de-la-graille/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.052800000" lon="5.588000000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Roybon</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2578/point-d-eau/vercors/fontaine-de-roybon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2578/point-d-eau/vercors/fontaine-de-roybon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.250500000" lon="5.586000000">
+  <ele>0.000000</ele>
+  <name>Source de l&apos;Echalance</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2666/point-d-eau/vercors/source-de-l-echalance/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2666/point-d-eau/vercors/source-de-l-echalance/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.061900000" lon="5.578000000">
+  <ele>0.000000</ele>
+  <name>Fontaine Magdelen</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2579/point-d-eau/vercors/fontaine-magdelen/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2579/point-d-eau/vercors/fontaine-magdelen/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.245600000" lon="5.576400000">
+  <ele>0.000000</ele>
+  <name>Source de la Clé</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2420/point-d-eau/vercors/source-de-la-cle/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2420/point-d-eau/vercors/source-de-la-cle/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.997000000" lon="5.572000000">
+  <ele>0.000000</ele>
+  <name>Fontaine des Sarrazins</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1965/point-d-eau/vercors/fontaine-des-sarrazins/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1965/point-d-eau/vercors/fontaine-des-sarrazins/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.011360000" lon="5.555440000">
+  <ele>0.000000</ele>
+  <name>Fontaine de l&apos;Ours</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3031/point-d-eau/vercors/fontaine-de-l-ours/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3031/point-d-eau/vercors/fontaine-de-l-ours/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.772700000" lon="5.552700000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Colombette</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1964/point-d-eau/vercors/fontaine-de-colombette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1964/point-d-eau/vercors/fontaine-de-colombette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.229750000" lon="5.541920000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Nave</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1269/point-d-eau/vercors/fontaine-de-nave/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1269/point-d-eau/vercors/fontaine-de-nave/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.796000000" lon="5.541700000">
+  <ele>0.000000</ele>
+  <name>Fontaine du Creuson</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1214/point-d-eau/vercors/fontaine-du-creuson/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1214/point-d-eau/vercors/fontaine-du-creuson/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.866000000" lon="5.541100000">
+  <ele>0.000000</ele>
+  <name>Ruisseau des Chalanches</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2747/point-d-eau/vercors/ruisseau-des-chalanches/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2747/point-d-eau/vercors/ruisseau-des-chalanches/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.224100000" lon="5.537070000">
+  <ele>0.000000</ele>
+  <name>Fontaine des Sangliers</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2419/point-d-eau/vercors/fontaine-des-sangliers/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2419/point-d-eau/vercors/fontaine-des-sangliers/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.206900000" lon="5.534200000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Font Renard</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2418/point-d-eau/vercors/fontaine-de-font-renard/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2418/point-d-eau/vercors/fontaine-de-font-renard/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.876720000" lon="5.529960000">
+  <ele>0.000000</ele>
+  <name>Fontaine du Veymont</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1703/point-d-eau/vercors/fontaine-du-veymont/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1703/point-d-eau/vercors/fontaine-du-veymont/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.914400000" lon="5.525500000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Berrièves</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2790/point-d-eau/vercors/fontaine-de-berrieves/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2790/point-d-eau/vercors/fontaine-de-berrieves/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.846900000" lon="5.519000000">
+  <ele>0.000000</ele>
+  <name>Fontaine du Pas des Bachassons</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1228/point-d-eau/vercors/fontaine-du-pas-des-bachassons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1228/point-d-eau/vercors/fontaine-du-pas-des-bachassons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.024600000" lon="5.517400000">
+  <ele>0.000000</ele>
+  <name>Point d&apos;eau du parking du Golf de Correncon</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1750/point-d-eau/vercors/point-d-eau-du-parking-du-golf-de-correncon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1750/point-d-eau/vercors/point-d-eau-du-parking-du-golf-de-correncon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.804850000" lon="5.513730000">
+  <ele>0.000000</ele>
+  <name>Source Chevalière</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1967/point-d-eau/vercors/source-chevaliere/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1967/point-d-eau/vercors/source-chevaliere/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.905100000" lon="5.510000000">
+  <ele>0.000000</ele>
+  <name>Fontaine du Play</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1198/point-d-eau/vercors/fontaine-du-play/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1198/point-d-eau/vercors/fontaine-du-play/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.857000000" lon="5.510000000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Bonnevau</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1963/point-d-eau/vercors/fontaine-de-bonnevau/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1963/point-d-eau/vercors/fontaine-de-bonnevau/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.888540000" lon="5.509710000">
+  <ele>0.000000</ele>
+  <name>Fontaine de la Chau</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1702/point-d-eau/vercors/fontaine-de-la-chau/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1702/point-d-eau/vercors/fontaine-de-la-chau/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.871330000" lon="5.509570000">
+  <ele>0.000000</ele>
+  <name>Fontaine des Serrons</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1210/point-d-eau/vercors/fontaine-des-serrons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1210/point-d-eau/vercors/fontaine-des-serrons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.903500000" lon="5.509300000">
+  <ele>0.000000</ele>
+  <name>Deuxième fontaine du Play</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1199/point-d-eau/vercors/deuxieme-fontaine-du-play/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1199/point-d-eau/vercors/deuxieme-fontaine-du-play/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.000000000" lon="5.508100000">
+  <ele>0.000000</ele>
+  <name>Puits des Ravières</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1832/point-d-eau/vercors/puits-des-ravieres/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1832/point-d-eau/vercors/puits-des-ravieres/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.712500000" lon="5.508000000">
+  <ele>0.000000</ele>
+  <name>Source de l&apos;échalas</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1865/point-d-eau/vercors/source-de-l-echalas/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1865/point-d-eau/vercors/source-de-l-echalas/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.981700000" lon="5.506390000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Carrette</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1179/point-d-eau/vercors/fontaine-de-carrette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1179/point-d-eau/vercors/fontaine-de-carrette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.716600000" lon="5.505300000">
+  <ele>0.000000</ele>
+  <name>Source de Fond Froide</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1864/point-d-eau/vercors/source-de-fond-froide/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1864/point-d-eau/vercors/source-de-fond-froide/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.989100000" lon="5.499900000">
+  <ele>0.000000</ele>
+  <name>Grotte Barnier</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2065/point-d-eau/vercors/grotte-barnier/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2065/point-d-eau/vercors/grotte-barnier/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.721000000" lon="5.491000000">
+  <ele>0.000000</ele>
+  <name>Source de Baume Rousse</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1444/point-d-eau/vercors/source-de-baume-rousse/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1444/point-d-eau/vercors/source-de-baume-rousse/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.990100000" lon="5.488870000">
+  <ele>0.000000</ele>
+  <name>Fontaine de la Coinchette</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1201/point-d-eau/vercors/fontaine-de-la-coinchette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1201/point-d-eau/vercors/fontaine-de-la-coinchette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.922780000" lon="5.483610000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Tiolache</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1200/point-d-eau/vercors/fontaine-de-tiolache/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1200/point-d-eau/vercors/fontaine-de-tiolache/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.825700000" lon="5.482300000">
+  <ele>0.000000</ele>
+  <name>Fontaine des Endettés</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1182/point-d-eau/vercors/fontaine-des-endettes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1182/point-d-eau/vercors/fontaine-des-endettes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.029444000" lon="5.478880000">
+  <ele>0.000000</ele>
+  <name>Fontaine d&apos;Herbouilly</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1656/point-d-eau/vercors/fontaine-d-herbouilly/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1656/point-d-eau/vercors/fontaine-d-herbouilly/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.183900000" lon="5.477900000">
+  <ele>0.000000</ele>
+  <name>Fontaine de grand Bois</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2859/point-d-eau/vercors/fontaine-de-grand-bois/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2859/point-d-eau/vercors/fontaine-de-grand-bois/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.039720000" lon="5.477770000">
+  <ele>0.000000</ele>
+  <name>Fontaine des Scialets Mistri</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1657/point-d-eau/vercors/fontaine-des-scialets-mistri/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1657/point-d-eau/vercors/fontaine-des-scialets-mistri/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.867700000" lon="5.475800000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Gerland</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1192/point-d-eau/vercors/fontaine-de-gerland/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1192/point-d-eau/vercors/fontaine-de-gerland/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.819000000" lon="5.475000000">
+  <ele>0.000000</ele>
+  <name>Fontaine des Gravelles</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1944/point-d-eau/vercors/fontaine-des-gravelles/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1944/point-d-eau/vercors/fontaine-des-gravelles/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.808800000" lon="5.471200000">
+  <ele>0.000000</ele>
+  <name>Fontaine de l&apos;Ours</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1216/point-d-eau/vercors/fontaine-de-l-ours/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1216/point-d-eau/vercors/fontaine-de-l-ours/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.879270000" lon="5.470110000">
+  <ele>0.000000</ele>
+  <name>Fontaine du Pichet</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1907/point-d-eau/vercors/fontaine-du-pichet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1907/point-d-eau/vercors/fontaine-du-pichet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.793520000" lon="5.469230000">
+  <ele>0.000000</ele>
+  <name>Fontaine des Bachassons</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1215/point-d-eau/vercors/fontaine-des-bachassons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1215/point-d-eau/vercors/fontaine-des-bachassons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.179400000" lon="5.467100000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Racleterre</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2858/point-d-eau/vercors/fontaine-de-racleterre/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2858/point-d-eau/vercors/fontaine-de-racleterre/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.735260000" lon="5.460290000">
+  <ele>0.000000</ele>
+  <name>Fontaine du Repos</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3309/point-d-eau/vercors/fontaine-du-repos/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3309/point-d-eau/vercors/fontaine-du-repos/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.160400000" lon="5.456700000">
+  <ele>0.000000</ele>
+  <name>Source des Pigeons</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2878/point-d-eau/vercors/source-des-pigeons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2878/point-d-eau/vercors/source-des-pigeons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.826350000" lon="5.454020000">
+  <ele>0.000000</ele>
+  <name>Fontaine des econdus</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1906/point-d-eau/vercors/fontaine-des-econdus/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1906/point-d-eau/vercors/fontaine-des-econdus/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.749420000" lon="5.448640000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Juillet</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1247/point-d-eau/vercors/fontaine-de-juillet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1247/point-d-eau/vercors/fontaine-de-juillet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.797660000" lon="5.445390000">
+  <ele>0.000000</ele>
+  <name>Fontaine de viresac</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1718/point-d-eau/vercors/fontaine-de-viresac/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1718/point-d-eau/vercors/fontaine-de-viresac/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.881700000" lon="5.445000000">
+  <ele>0.000000</ele>
+  <name>Citerne maison forestière de Pré Grandu</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2903/point-d-eau/vercors/citerne-maison-forestiere-de-pre-grandu/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2903/point-d-eau/vercors/citerne-maison-forestiere-de-pre-grandu/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.055420000" lon="5.436130000">
+  <ele>0.000000</ele>
+  <name>Source de Moulin Marquis</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1636/point-d-eau/vercors/source-de-moulin-marquis/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1636/point-d-eau/vercors/source-de-moulin-marquis/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.129710000" lon="5.431850000">
+  <ele>0.000000</ele>
+  <name>Source de Burry</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1970/point-d-eau/vercors/source-de-burry/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1970/point-d-eau/vercors/source-de-burry/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.097230000" lon="5.420180000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Pétouze</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1196/point-d-eau/vercors/fontaine-de-petouze/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1196/point-d-eau/vercors/fontaine-de-petouze/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.143600000" lon="5.408200000">
+  <ele>0.000000</ele>
+  <name>Fontaine (de Mede ?)</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3064/point-d-eau/vercors/fontaine-de-mede/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3064/point-d-eau/vercors/fontaine-de-mede/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.127900000" lon="5.405500000">
+  <ele>0.000000</ele>
+  <name>Fointaine des Charmettes</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3063/point-d-eau/vercors/fointaine-des-charmettes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3063/point-d-eau/vercors/fointaine-des-charmettes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.015200000" lon="5.368500000">
+  <ele>0.000000</ele>
+  <name>Source des Fourneaux</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2981/point-d-eau/vercors/source-des-fourneaux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2981/point-d-eau/vercors/source-des-fourneaux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.853250000" lon="5.353730000">
+  <ele>0.000000</ele>
+  <name>Fontaine du Lauset</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3410/point-d-eau/vercors/fontaine-du-lauset/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3410/point-d-eau/vercors/fontaine-du-lauset/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.835800000" lon="5.350000000">
+  <ele>0.000000</ele>
+  <name>Fontaine du Plainet</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2194/point-d-eau/vercors/fontaine-du-plainet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2194/point-d-eau/vercors/fontaine-du-plainet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.907200000" lon="5.287200000">
+  <ele>0.000000</ele>
+  <name>Fontaine de Malatra</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3320/point-d-eau/vercors/fontaine-de-malatra/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3320/point-d-eau/vercors/fontaine-de-malatra/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.874380000" lon="5.267540000">
+  <ele>0.000000</ele>
+  <name>Abreuvoir du plateau d&apos;Ambel</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3434/point-d-eau/vercors/abreuvoir-du-plateau-d-ambel/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3434/point-d-eau/vercors/abreuvoir-du-plateau-d-ambel/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.913010000" lon="5.208330000">
+  <ele>0.000000</ele>
+  <name>Borne du Grand Echaillon</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3436/point-d-eau/vercors/borne-du-grand-echaillon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/point_eau.png&apos; /&gt;
+  (&lt;em&gt;Point d&apos;eau&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3436/point-d-eau/vercors/borne-du-grand-echaillon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+</gpx>

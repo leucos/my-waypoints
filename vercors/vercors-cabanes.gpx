@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2013-02-03T14:19:32Z</time>
+<bounds minlat="44.727570000" minlon="5.246130000" maxlat="45.295000000" maxlon="5.648000000"/>
+<wpt lat="45.202800000" lon="5.648000000">
+  <ele>0.000000</ele>
+  <name>Chalet des Trois Moineaux</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2605/cabane-non-gardee/vercors/chalet-des-trois-moineaux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2605/cabane-non-gardee/vercors/chalet-des-trois-moineaux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.743000000" lon="5.637700000">
+  <ele>0.000000</ele>
+  <name>Cabane des Pâtres</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3076/cabane-non-gardee/vercors/cabane-des-patres/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3076/cabane-non-gardee/vercors/cabane-des-patres/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.148720000" lon="5.637460000">
+  <ele>0.000000</ele>
+  <name>Abri du Moucherotte</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1655/cabane-non-gardee/vercors/abri-du-moucherotte/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1655/cabane-non-gardee/vercors/abri-du-moucherotte/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.126710000" lon="5.622470000">
+  <ele>0.000000</ele>
+  <name>Habert des Ramées</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/25/cabane-non-gardee/vercors/habert-des-ramees/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/25/cabane-non-gardee/vercors/habert-des-ramees/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.083800000" lon="5.607200000">
+  <ele>0.000000</ele>
+  <name>Abri de Fond Froide</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2328/cabane-non-gardee/vercors/abri-de-fond-froide/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2328/cabane-non-gardee/vercors/abri-de-fond-froide/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.144700000" lon="5.601000000">
+  <ele>0.000000</ele>
+  <name>Cabane de Bourchardière</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1695/cabane-non-gardee/vercors/cabane-de-bourchardiere/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1695/cabane-non-gardee/vercors/cabane-de-bourchardiere/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.045270000" lon="5.600550000">
+  <ele>0.000000</ele>
+  <name>Baraque du Col Vert</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/74/cabane-non-gardee/vercors/baraque-du-col-vert/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/74/cabane-non-gardee/vercors/baraque-du-col-vert/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.796000000" lon="5.599100000">
+  <ele>0.000000</ele>
+  <name>Bergerie des Ayes</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2827/cabane-non-gardee/vercors/bergerie-des-ayes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2827/cabane-non-gardee/vercors/bergerie-des-ayes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.282700000" lon="5.598000000">
+  <ele>0.000000</ele>
+  <name>Cabane du Bois Vert</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/613/cabane-non-gardee/vercors/cabane-du-bois-vert/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/613/cabane-non-gardee/vercors/cabane-du-bois-vert/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.295000000" lon="5.597500000">
+  <ele>0.000000</ele>
+  <name>Ancienne chapelle de Saint-Ours</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2652/cabane-non-gardee/vercors/ancienne-chapelle-de-saint-ours/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2652/cabane-non-gardee/vercors/ancienne-chapelle-de-saint-ours/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.194200000" lon="5.594200000">
+  <ele>0.000000</ele>
+  <name>Cabane sous le Tracollet</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/100/cabane-non-gardee/vercors/cabane-sous-le-tracollet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/100/cabane-non-gardee/vercors/cabane-sous-le-tracollet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.223200000" lon="5.593000000">
+  <ele>0.000000</ele>
+  <name>Abri des Egarlettes</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2581/cabane-non-gardee/vercors/abri-des-egarlettes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2581/cabane-non-gardee/vercors/abri-des-egarlettes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.057020000" lon="5.590410000">
+  <ele>0.000000</ele>
+  <name>Abri de la Chourelle</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2248/cabane-non-gardee/vercors/abri-de-la-chourelle/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2248/cabane-non-gardee/vercors/abri-de-la-chourelle/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.053100000" lon="5.586600000">
+  <ele>0.000000</ele>
+  <name>Cabane des Clots (ou de Roybon)</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/39/cabane-non-gardee/vercors/cabane-des-clots-ou-de-roybon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/39/cabane-non-gardee/vercors/cabane-des-clots-ou-de-roybon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.008000000" lon="5.586000000">
+  <ele>0.000000</ele>
+  <name>Baraque des Clos</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/32/cabane-non-gardee/vercors/baraque-des-clos/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/32/cabane-non-gardee/vercors/baraque-des-clos/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.897500000" lon="5.582700000">
+  <ele>0.000000</ele>
+  <name>Cabane Bertrand</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2639/cabane-non-gardee/vercors/cabane-bertrand/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2639/cabane-non-gardee/vercors/cabane-bertrand/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.062300000" lon="5.577700000">
+  <ele>0.000000</ele>
+  <name>Abri des Plâtres</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2580/cabane-non-gardee/vercors/abri-des-platres/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2580/cabane-non-gardee/vercors/abri-des-platres/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.055000000" lon="5.577000000">
+  <ele>0.000000</ele>
+  <name>Baraque de la Fauge</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/38/cabane-non-gardee/vercors/baraque-de-la-fauge/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/38/cabane-non-gardee/vercors/baraque-de-la-fauge/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.015300000" lon="5.570800000">
+  <ele>0.000000</ele>
+  <name>Refuge des Crêtes</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3127/cabane-non-gardee/vercors/refuge-des-cretes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3127/cabane-non-gardee/vercors/refuge-des-cretes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.787000000" lon="5.558000000">
+  <ele>0.000000</ele>
+  <name>Abri de l&apos;Essaure</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/15/cabane-non-gardee/vercors/abri-de-l-essaure/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/15/cabane-non-gardee/vercors/abri-de-l-essaure/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.001700000" lon="5.553200000">
+  <ele>0.000000</ele>
+  <name>Refuge du Grand Couloir (Pte Moucherolle)</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1903/cabane-non-gardee/vercors/refuge-du-grand-couloir-pte-moucherolle/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1903/cabane-non-gardee/vercors/refuge-du-grand-couloir-pte-moucherolle/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.003500000" lon="5.540700000">
+  <ele>0.000000</ele>
+  <name>Bergerie Combeauvieux</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1904/cabane-non-gardee/vercors/bergerie-combeauvieux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1904/cabane-non-gardee/vercors/bergerie-combeauvieux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.221750000" lon="5.539560000">
+  <ele>0.000000</ele>
+  <name>Cabane de Nave</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/53/cabane-non-gardee/vercors/cabane-de-nave/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/53/cabane-non-gardee/vercors/cabane-de-nave/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.872022820" lon="5.537038770">
+  <ele>0.000000</ele>
+  <name>Baraque forestière du Veymont</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/206/cabane-non-gardee/vercors/baraque-forestiere-du-veymont/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/206/cabane-non-gardee/vercors/baraque-forestiere-du-veymont/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.112100000" lon="5.536800000">
+  <ele>0.000000</ele>
+  <name>La Cochette</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2985/cabane-non-gardee/vercors/la-cochette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2985/cabane-non-gardee/vercors/la-cochette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.215670000" lon="5.529670000">
+  <ele>0.000000</ele>
+  <name>Ferme de Fessole</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/510/cabane-non-gardee/vercors/ferme-de-fessole/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/510/cabane-non-gardee/vercors/ferme-de-fessole/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.991370000" lon="5.527240000">
+  <ele>0.000000</ele>
+  <name>Cabane du Serre du Play</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/457/cabane-non-gardee/vercors/cabane-du-serre-du-play/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/457/cabane-non-gardee/vercors/cabane-du-serre-du-play/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.946230000" lon="5.526730000">
+  <ele>0.000000</ele>
+  <name>Abri de la Peyrouse</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/142/cabane-non-gardee/vercors/abri-de-la-peyrouse/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/142/cabane-non-gardee/vercors/abri-de-la-peyrouse/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.853410000" lon="5.520760000">
+  <ele>0.000000</ele>
+  <name>Cabane des Aiguillettes</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/89/cabane-non-gardee/vercors/cabane-des-aiguillettes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/89/cabane-non-gardee/vercors/cabane-des-aiguillettes/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.196200000" lon="5.517100000">
+  <ele>0.000000</ele>
+  <name>Chalet Montal</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1523/cabane-non-gardee/vercors/chalet-montal/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1523/cabane-non-gardee/vercors/chalet-montal/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.805510000" lon="5.511960000">
+  <ele>0.000000</ele>
+  <name>Refuge de Chamailloux</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/18/cabane-non-gardee/vercors/refuge-de-chamailloux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/18/cabane-non-gardee/vercors/refuge-de-chamailloux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.807200000" lon="5.511600000">
+  <ele>0.000000</ele>
+  <name>Cabane de la SMA</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2298/cabane-non-gardee/vercors/cabane-de-la-sma/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2298/cabane-non-gardee/vercors/cabane-de-la-sma/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.834160000" lon="5.509660000">
+  <ele>0.000000</ele>
+  <name>Cabane de la Montagne de Lau</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/437/cabane-non-gardee/vercors/cabane-de-la-montagne-de-lau/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/437/cabane-non-gardee/vercors/cabane-de-la-montagne-de-lau/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.133400000" lon="5.508800000">
+  <ele>0.000000</ele>
+  <name>Refuge des Feuilles</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1468/cabane-non-gardee/vercors/refuge-des-feuilles/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1468/cabane-non-gardee/vercors/refuge-des-feuilles/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.984450000" lon="5.506690000">
+  <ele>0.000000</ele>
+  <name>Cabane de Carrette</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/104/cabane-non-gardee/vercors/cabane-de-carrette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/104/cabane-non-gardee/vercors/cabane-de-carrette/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.120000000" lon="5.504000000">
+  <ele>0.000000</ele>
+  <name>Baraque Forestière d&apos;Achieux</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/43/cabane-non-gardee/vercors/baraque-forestiere-d-achieux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/43/cabane-non-gardee/vercors/baraque-forestiere-d-achieux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.910580000" lon="5.502160000">
+  <ele>0.000000</ele>
+  <name>Refuge de la Jasse du Play</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/28/cabane-non-gardee/vercors/refuge-de-la-jasse-du-play/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/28/cabane-non-gardee/vercors/refuge-de-la-jasse-du-play/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.801930000" lon="5.495250000">
+  <ele>0.000000</ele>
+  <name>Bergerie de Jasneuf</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/458/cabane-non-gardee/vercors/bergerie-de-jasneuf/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/458/cabane-non-gardee/vercors/bergerie-de-jasneuf/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.925800000" lon="5.490260000">
+  <ele>0.000000</ele>
+  <name>Refuge de Tiolache du Milieu</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/29/cabane-non-gardee/vercors/refuge-de-tiolache-du-milieu/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/29/cabane-non-gardee/vercors/refuge-de-tiolache-du-milieu/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.727570000" lon="5.490140000">
+  <ele>0.000000</ele>
+  <name>Cabane de Châtillon</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/80/cabane-non-gardee/vercors/cabane-de-chatillon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/80/cabane-non-gardee/vercors/cabane-de-chatillon/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.058000000" lon="5.488000000">
+  <ele>0.000000</ele>
+  <name>Chalet de Chalimont</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/27/cabane-non-gardee/vercors/chalet-de-chalimont/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/27/cabane-non-gardee/vercors/chalet-de-chalimont/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.003330000" lon="5.485880000">
+  <ele>0.000000</ele>
+  <name>Baraque forestière G. Guillet</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3294/cabane-non-gardee/vercors/baraque-forestiere-g-guillet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3294/cabane-non-gardee/vercors/baraque-forestiere-g-guillet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.827100000" lon="5.482900000">
+  <ele>0.000000</ele>
+  <name>Cabane de Pré Peyret</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/19/cabane-non-gardee/vercors/cabane-de-pre-peyret/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/19/cabane-non-gardee/vercors/cabane-de-pre-peyret/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.787000000" lon="5.478000000">
+  <ele>0.000000</ele>
+  <name>Cabane de St Roman</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/421/cabane-non-gardee/vercors/cabane-de-st-roman/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/421/cabane-non-gardee/vercors/cabane-de-st-roman/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.809500850" lon="5.472626930">
+  <ele>0.000000</ele>
+  <name>Baraque du Pison</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/79/cabane-non-gardee/vercors/baraque-du-pison/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/79/cabane-non-gardee/vercors/baraque-du-pison/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.757660000" lon="5.465530000">
+  <ele>0.000000</ele>
+  <name>Bergerie de Laval d&apos;Aix</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/17/cabane-non-gardee/vercors/bergerie-de-laval-d-aix/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/17/cabane-non-gardee/vercors/bergerie-de-laval-d-aix/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.919000000" lon="5.462000000">
+  <ele>0.000000</ele>
+  <name>Baraque des Bachassons</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/434/cabane-non-gardee/vercors/baraque-des-bachassons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/434/cabane-non-gardee/vercors/baraque-des-bachassons/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.970000000" lon="5.461000000">
+  <ele>0.000000</ele>
+  <name>Baraque de pré Vallet</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/268/cabane-non-gardee/vercors/baraque-de-pre-vallet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/268/cabane-non-gardee/vercors/baraque-de-pre-vallet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.809400000" lon="5.455800000">
+  <ele>0.000000</ele>
+  <name>Le château</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/207/cabane-non-gardee/vercors/le-chateau/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/207/cabane-non-gardee/vercors/le-chateau/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.762020000" lon="5.446620000">
+  <ele>0.000000</ele>
+  <name>Cabane du GR du Glandasse</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/78/cabane-non-gardee/vercors/cabane-du-gr-du-glandasse/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/78/cabane-non-gardee/vercors/cabane-du-gr-du-glandasse/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.797840000" lon="5.445400000">
+  <ele>0.000000</ele>
+  <name>Abri de Viresac</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1717/cabane-non-gardee/vercors/abri-de-viresac/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/abri_sommaire.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/1717/cabane-non-gardee/vercors/abri-de-viresac/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.104960000" lon="5.438530000">
+  <ele>0.000000</ele>
+  <name>Refuge du Serre du Satre</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/24/cabane-non-gardee/vercors/refuge-du-serre-du-satre/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/24/cabane-non-gardee/vercors/refuge-du-serre-du-satre/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="45.075480000" lon="5.432030000">
+  <ele>0.000000</ele>
+  <name>Abri de la goulandière</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/23/cabane-non-gardee/vercors/abri-de-la-goulandiere/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/23/cabane-non-gardee/vercors/abri-de-la-goulandiere/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.935180000" lon="5.360520000">
+  <ele>0.000000</ele>
+  <name>Refuge de Crobache</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/95/cabane-non-gardee/vercors/refuge-de-crobache/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/95/cabane-non-gardee/vercors/refuge-de-crobache/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.832190000" lon="5.354250000">
+  <ele>0.000000</ele>
+  <name>Refuge du Col de Vassieux</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/20/cabane-non-gardee/vercors/refuge-du-col-de-vassieux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/20/cabane-non-gardee/vercors/refuge-du-col-de-vassieux/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.853800000" lon="5.353800000">
+  <ele>0.000000</ele>
+  <name>Baraque Forestière du Lauset</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2192/cabane-non-gardee/vercors/baraque-forestiere-du-lauset/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/2192/cabane-non-gardee/vercors/baraque-forestiere-du-lauset/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.827220000" lon="5.333580000">
+  <ele>0.000000</ele>
+  <name>Abri forestier du St Genix</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3411/cabane-non-gardee/vercors/abri-forestier-du-st-genix/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3411/cabane-non-gardee/vercors/abri-forestier-du-st-genix/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.888000000" lon="5.277000000">
+  <ele>0.000000</ele>
+  <name>Refuge de Tubanet</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/22/cabane-non-gardee/vercors/refuge-de-tubanet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/22/cabane-non-gardee/vercors/refuge-de-tubanet/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.892800000" lon="5.254200000">
+  <ele>0.000000</ele>
+  <name>Refuge Gardiol</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/103/cabane-non-gardee/vercors/refuge-gardiol/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/103/cabane-non-gardee/vercors/refuge-gardiol/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.884340000" lon="5.246310000">
+  <ele>0.000000</ele>
+  <name>Refuge d&apos;Ambel</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/21/cabane-non-gardee/vercors/refuge-d-ambel/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/21/cabane-non-gardee/vercors/refuge-d-ambel/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+<wpt lat="44.862850000" lon="5.246130000">
+  <ele>0.000000</ele>
+  <name>Bergerie Les Sarnats</name>
+  <cmt>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3057/cabane-non-gardee/vercors/bergerie-les-sarnats/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</cmt>
+  <desc>&lt;img src=&apos;http://www.refuges.info/images/icones/cabane.png&apos; /&gt;
+  (&lt;em&gt;Cabane non gardée&lt;/em&gt;) &lt;br /&gt;
+  &lt;center&gt;&lt;a href=&apos;http://www.refuges.info/point/3057/cabane-non-gardee/vercors/bergerie-les-sarnats/&apos;&gt;Détails&lt;/a&gt;&lt;/center&gt;</desc>
+</wpt>
+</gpx>
