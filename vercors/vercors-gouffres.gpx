@@ -5,8 +5,8 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns="http://www.topografix.com/GPX/1/0"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
-<time>2013-02-03T14:19:32Z</time>
-<bounds minlat="44.763499254" minlon="5.459847211" maxlat="44.989004136" maxlon="5.545368903"/>
+<time>2013-02-04T12:32:23Z</time>
+<bounds minlat="44.763499254" minlon="5.419215560" maxlat="44.989004136" maxlon="5.545368903"/>
 <wpt lat="44.783242891" lon="5.543586390">
   <ele>0.000000</ele>
   <name>Gouffre</name>
@@ -157,6 +157,24 @@
   <cmt>Gouffre</cmt>
   <desc>Gouffre</desc>
 </wpt>
+<wpt lat="44.827831579" lon="5.419215560">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.832881227" lon="5.430156320">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.844665093" lon="5.452004262">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
 <wpt lat="44.837916356" lon="5.459847211">
   <ele>0.000000</ele>
   <name>Gouffre</name>
@@ -181,6 +199,72 @@
   <cmt>Gouffre</cmt>
   <desc>Gouffre</desc>
 </wpt>
+<wpt lat="44.864843463" lon="5.465662512">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.864514409" lon="5.465570870">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.861962970" lon="5.475632033">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.881820250" lon="5.471853441">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.876922380" lon="5.442964651">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.887941552" lon="5.446814361">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.890052534" lon="5.433890564">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.883993509" lon="5.447861462">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.882951035" lon="5.449975104">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.866815894" lon="5.458248406">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.862786683" lon="5.445382623">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
 <wpt lat="44.870884882" lon="5.508664958">
   <ele>0.000000</ele>
   <name>Gouffre</name>
@@ -200,6 +284,12 @@
   <desc>Gouffre</desc>
 </wpt>
 <wpt lat="44.909384315" lon="5.508583300">
+  <ele>0.000000</ele>
+  <name>Gouffre</name>
+  <cmt>Gouffre</cmt>
+  <desc>Gouffre</desc>
+</wpt>
+<wpt lat="44.909574317" lon="5.500955130">
   <ele>0.000000</ele>
   <name>Gouffre</name>
   <cmt>Gouffre</cmt>
